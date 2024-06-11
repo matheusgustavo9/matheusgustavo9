@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus Gustavo🖐️😎
 
 <div>
-    <a href = "matheusgustavo9.github.io/matheusgustavo"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" align="center"></a>
+    <a href = "https://matheusgustavo9.github.io/matheusgustavo"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" align="center"></a>
     <a href = "https://linkedin.com/in/matheusgustasilva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a>
     <a href = "mailto:matheusgustavosprog@gmail.com"><img src="https://img.shields.io/badge/-Gmail-111?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align="center"></a>
 </div><br>
