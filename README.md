@@ -7,8 +7,8 @@
 </div><br>
 
 <div style="display: inline_block">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusgustavo9&show_icons=true&theme=dracula" alt="html5" align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgustavo9&layout=compact&langs_count=16&theme=dracula" alt="html5" align="center">
+    <a href = "https://github.com/matheusgustavo9"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusgustavo9&show_icons=true&theme=dracula" alt="html5" align="center"></a>
+    <a href = "https://github.com/matheusgustavo9"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgustavo9&layout=compact&langs_count=16&theme=dracula" alt="html5" align="center"></a>
 </div>
 
 ## Tecnologia que eu uso no meu dia
